@@ -1,0 +1,13 @@
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
+COPY bin/Release/net8.0/publish/ app/
+WORKDIR /app
+
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
+WORKDIR /src
+RUN dotnet dev-certs https -v -ep openiddict.pfx -p bf1c538d-edb2-4f42-a018-7fc5b841459c
+
+FROM base AS final
+WORKDIR /app
+COPY --from=build /src .
+
+ENTRYPOINT ["dotnet", "Aspire.demomvc.Web.dll"]

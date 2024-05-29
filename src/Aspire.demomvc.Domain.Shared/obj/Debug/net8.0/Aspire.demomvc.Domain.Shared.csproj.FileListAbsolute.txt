@@ -1,0 +1,13 @@
+/Users/skoc/Desktop/git_hub/aspirate-demo/src/Aspire.demomvc.Domain.Shared/bin/Debug/net8.0/Aspire.demomvc.Domain.Shared.deps.json
+/Users/skoc/Desktop/git_hub/aspirate-demo/src/Aspire.demomvc.Domain.Shared/bin/Debug/net8.0/Aspire.demomvc.Domain.Shared.dll
+/Users/skoc/Desktop/git_hub/aspirate-demo/src/Aspire.demomvc.Domain.Shared/bin/Debug/net8.0/Aspire.demomvc.Domain.Shared.pdb
+/Users/skoc/Desktop/git_hub/aspirate-demo/src/Aspire.demomvc.Domain.Shared/obj/Debug/net8.0/Aspire.demomvc.Domain.Shared.csproj.AssemblyReference.cache
+/Users/skoc/Desktop/git_hub/aspirate-demo/src/Aspire.demomvc.Domain.Shared/obj/Debug/net8.0/Aspire.demomvc.Domain.Shared.EmbeddedFilesManifest.cache
+/Users/skoc/Desktop/git_hub/aspirate-demo/src/Aspire.demomvc.Domain.Shared/obj/Debug/net8.0/Aspire.demomvc.Domain.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/skoc/Desktop/git_hub/aspirate-demo/src/Aspire.demomvc.Domain.Shared/obj/Debug/net8.0/Aspire.demomvc.Domain.Shared.AssemblyInfoInputs.cache
+/Users/skoc/Desktop/git_hub/aspirate-demo/src/Aspire.demomvc.Domain.Shared/obj/Debug/net8.0/Aspire.demomvc.Domain.Shared.AssemblyInfo.cs
+/Users/skoc/Desktop/git_hub/aspirate-demo/src/Aspire.demomvc.Domain.Shared/obj/Debug/net8.0/Aspire.demomvc.Domain.Shared.csproj.CoreCompileInputs.cache
+/Users/skoc/Desktop/git_hub/aspirate-demo/src/Aspire.demomvc.Domain.Shared/obj/Debug/net8.0/Aspire.demomvc.Domain.Shared.dll
+/Users/skoc/Desktop/git_hub/aspirate-demo/src/Aspire.demomvc.Domain.Shared/obj/Debug/net8.0/refint/Aspire.demomvc.Domain.Shared.dll
+/Users/skoc/Desktop/git_hub/aspirate-demo/src/Aspire.demomvc.Domain.Shared/obj/Debug/net8.0/Aspire.demomvc.Domain.Shared.pdb
+/Users/skoc/Desktop/git_hub/aspirate-demo/src/Aspire.demomvc.Domain.Shared/obj/Debug/net8.0/ref/Aspire.demomvc.Domain.Shared.dll

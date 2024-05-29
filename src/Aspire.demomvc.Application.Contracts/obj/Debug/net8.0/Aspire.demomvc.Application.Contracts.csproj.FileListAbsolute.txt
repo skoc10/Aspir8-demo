@@ -1,0 +1,15 @@
+/Users/skoc/Desktop/git_hub/aspirate-demo/src/Aspire.demomvc.Application.Contracts/bin/Debug/net8.0/Aspire.demomvc.Application.Contracts.deps.json
+/Users/skoc/Desktop/git_hub/aspirate-demo/src/Aspire.demomvc.Application.Contracts/bin/Debug/net8.0/Aspire.demomvc.Application.Contracts.dll
+/Users/skoc/Desktop/git_hub/aspirate-demo/src/Aspire.demomvc.Application.Contracts/bin/Debug/net8.0/Aspire.demomvc.Application.Contracts.pdb
+/Users/skoc/Desktop/git_hub/aspirate-demo/src/Aspire.demomvc.Application.Contracts/bin/Debug/net8.0/Aspire.demomvc.Domain.Shared.dll
+/Users/skoc/Desktop/git_hub/aspirate-demo/src/Aspire.demomvc.Application.Contracts/bin/Debug/net8.0/Aspire.demomvc.Domain.Shared.pdb
+/Users/skoc/Desktop/git_hub/aspirate-demo/src/Aspire.demomvc.Application.Contracts/obj/Debug/net8.0/Aspire.demomvc.Application.Contracts.csproj.AssemblyReference.cache
+/Users/skoc/Desktop/git_hub/aspirate-demo/src/Aspire.demomvc.Application.Contracts/obj/Debug/net8.0/Aspire.demomvc.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/skoc/Desktop/git_hub/aspirate-demo/src/Aspire.demomvc.Application.Contracts/obj/Debug/net8.0/Aspire.demomvc.Application.Contracts.AssemblyInfoInputs.cache
+/Users/skoc/Desktop/git_hub/aspirate-demo/src/Aspire.demomvc.Application.Contracts/obj/Debug/net8.0/Aspire.demomvc.Application.Contracts.AssemblyInfo.cs
+/Users/skoc/Desktop/git_hub/aspirate-demo/src/Aspire.demomvc.Application.Contracts/obj/Debug/net8.0/Aspire.demomvc.Application.Contracts.csproj.CoreCompileInputs.cache
+/Users/skoc/Desktop/git_hub/aspirate-demo/src/Aspire.demomvc.Application.Contracts/obj/Debug/net8.0/Aspire.demomvc.Application.Contracts.csproj.CopyComplete
+/Users/skoc/Desktop/git_hub/aspirate-demo/src/Aspire.demomvc.Application.Contracts/obj/Debug/net8.0/Aspire.demomvc.Application.Contracts.dll
+/Users/skoc/Desktop/git_hub/aspirate-demo/src/Aspire.demomvc.Application.Contracts/obj/Debug/net8.0/refint/Aspire.demomvc.Application.Contracts.dll
+/Users/skoc/Desktop/git_hub/aspirate-demo/src/Aspire.demomvc.Application.Contracts/obj/Debug/net8.0/Aspire.demomvc.Application.Contracts.pdb
+/Users/skoc/Desktop/git_hub/aspirate-demo/src/Aspire.demomvc.Application.Contracts/obj/Debug/net8.0/ref/Aspire.demomvc.Application.Contracts.dll
