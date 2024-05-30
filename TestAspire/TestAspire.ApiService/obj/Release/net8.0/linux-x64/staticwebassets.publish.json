@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yB2pYimVeO0AnJbjXuIw4JmOVAnL8WeYL4qLHh9/4BA=",
+  "Source": "TestAspire.ApiService",
+  "BasePath": "_content/TestAspire.ApiService",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

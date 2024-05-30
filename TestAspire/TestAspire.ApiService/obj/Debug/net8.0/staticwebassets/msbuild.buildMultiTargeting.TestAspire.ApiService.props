@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/TestAspire.ApiService.props" />
+</Project>

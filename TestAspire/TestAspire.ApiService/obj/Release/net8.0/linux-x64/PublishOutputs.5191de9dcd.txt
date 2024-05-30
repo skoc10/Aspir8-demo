@@ -1,0 +1,5 @@
+/Users/skoc/Desktop/git_hub/Aspir8-demo/TestAspire/TestAspire.ApiService/bin/Release/net8.0/linux-x64/publish/appsettings.Development.json
+/Users/skoc/Desktop/git_hub/Aspir8-demo/TestAspire/TestAspire.ApiService/bin/Release/net8.0/linux-x64/publish/appsettings.json
+/Users/skoc/Desktop/git_hub/Aspir8-demo/TestAspire/TestAspire.ApiService/bin/Release/net8.0/linux-x64/publish/TestAspire.ApiService.pdb
+/Users/skoc/Desktop/git_hub/Aspir8-demo/TestAspire/TestAspire.ApiService/bin/Release/net8.0/linux-x64/publish/TestAspire.ServiceDefaults.pdb
+/Users/skoc/Desktop/git_hub/Aspir8-demo/TestAspire/TestAspire.ApiService/bin/Release/net8.0/linux-x64/publish/TestAspire.ApiService

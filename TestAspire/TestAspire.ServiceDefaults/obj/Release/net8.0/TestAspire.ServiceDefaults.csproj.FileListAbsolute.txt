@@ -1,0 +1,13 @@
+/Users/skoc/Desktop/git_hub/Aspir8-demo/TestAspire/TestAspire.ServiceDefaults/bin/Release/net8.0/TestAspire.ServiceDefaults.deps.json
+/Users/skoc/Desktop/git_hub/Aspir8-demo/TestAspire/TestAspire.ServiceDefaults/bin/Release/net8.0/TestAspire.ServiceDefaults.dll
+/Users/skoc/Desktop/git_hub/Aspir8-demo/TestAspire/TestAspire.ServiceDefaults/bin/Release/net8.0/TestAspire.ServiceDefaults.pdb
+/Users/skoc/Desktop/git_hub/Aspir8-demo/TestAspire/TestAspire.ServiceDefaults/obj/Release/net8.0/TestAspire.ServiceDefaults.csproj.AssemblyReference.cache
+/Users/skoc/Desktop/git_hub/Aspir8-demo/TestAspire/TestAspire.ServiceDefaults/obj/Release/net8.0/TestAspire.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+/Users/skoc/Desktop/git_hub/Aspir8-demo/TestAspire/TestAspire.ServiceDefaults/obj/Release/net8.0/TestAspire.ServiceDefaults.AssemblyInfoInputs.cache
+/Users/skoc/Desktop/git_hub/Aspir8-demo/TestAspire/TestAspire.ServiceDefaults/obj/Release/net8.0/TestAspire.ServiceDefaults.AssemblyInfo.cs
+/Users/skoc/Desktop/git_hub/Aspir8-demo/TestAspire/TestAspire.ServiceDefaults/obj/Release/net8.0/TestAspire.ServiceDefaults.csproj.CoreCompileInputs.cache
+/Users/skoc/Desktop/git_hub/Aspir8-demo/TestAspire/TestAspire.ServiceDefaults/obj/Release/net8.0/TestAspire.ServiceDefaults.sourcelink.json
+/Users/skoc/Desktop/git_hub/Aspir8-demo/TestAspire/TestAspire.ServiceDefaults/obj/Release/net8.0/TestAspire.ServiceDefaults.dll
+/Users/skoc/Desktop/git_hub/Aspir8-demo/TestAspire/TestAspire.ServiceDefaults/obj/Release/net8.0/refint/TestAspire.ServiceDefaults.dll
+/Users/skoc/Desktop/git_hub/Aspir8-demo/TestAspire/TestAspire.ServiceDefaults/obj/Release/net8.0/TestAspire.ServiceDefaults.pdb
+/Users/skoc/Desktop/git_hub/Aspir8-demo/TestAspire/TestAspire.ServiceDefaults/obj/Release/net8.0/ref/TestAspire.ServiceDefaults.dll

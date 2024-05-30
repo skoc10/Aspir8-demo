@@ -1,0 +1,204 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/skoc/Desktop/git_hub/Aspir8-demo/TestAspire/TestAspire.ApiService/TestAspire.ApiService.csproj": {}
+  },
+  "projects": {
+    "/Users/skoc/Desktop/git_hub/Aspir8-demo/TestAspire/TestAspire.ApiService/TestAspire.ApiService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/skoc/Desktop/git_hub/Aspir8-demo/TestAspire/TestAspire.ApiService/TestAspire.ApiService.csproj",
+        "projectName": "TestAspire.ApiService",
+        "projectPath": "/Users/skoc/Desktop/git_hub/Aspir8-demo/TestAspire/TestAspire.ApiService/TestAspire.ApiService.csproj",
+        "packagesPath": "/Users/skoc/.nuget/packages/",
+        "outputPath": "/Users/skoc/Desktop/git_hub/Aspir8-demo/TestAspire/TestAspire.ApiService/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/skoc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/skoc/Desktop/git_hub/Aspir8-demo/TestAspire/TestAspire.ServiceDefaults/TestAspire.ServiceDefaults.csproj": {
+                "projectPath": "/Users/skoc/Desktop/git_hub/Aspir8-demo/TestAspire/TestAspire.ServiceDefaults/TestAspire.ServiceDefaults.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
+              "version": "[8.0.0, 8.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[8.0.0, 8.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.linux-x64",
+              "version": "[8.0.0, 8.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    },
+    "/Users/skoc/Desktop/git_hub/Aspir8-demo/TestAspire/TestAspire.ServiceDefaults/TestAspire.ServiceDefaults.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/skoc/Desktop/git_hub/Aspir8-demo/TestAspire/TestAspire.ServiceDefaults/TestAspire.ServiceDefaults.csproj",
+        "projectName": "TestAspire.ServiceDefaults",
+        "projectPath": "/Users/skoc/Desktop/git_hub/Aspir8-demo/TestAspire/TestAspire.ServiceDefaults/TestAspire.ServiceDefaults.csproj",
+        "packagesPath": "/Users/skoc/.nuget/packages/",
+        "outputPath": "/Users/skoc/Desktop/git_hub/Aspir8-demo/TestAspire/TestAspire.ServiceDefaults/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/skoc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Http.Resilience": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            },
+            "Microsoft.Extensions.ServiceDiscovery": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )",
+              "autoReferenced": true
+            },
+            "OpenTelemetry.Exporter.OpenTelemetryProtocol": {
+              "target": "Package",
+              "version": "[1.8.1, )"
+            },
+            "OpenTelemetry.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[1.8.1, )"
+            },
+            "OpenTelemetry.Instrumentation.AspNetCore": {
+              "target": "Package",
+              "version": "[1.8.1, )"
+            },
+            "OpenTelemetry.Instrumentation.Http": {
+              "target": "Package",
+              "version": "[1.8.1, )"
+            },
+            "OpenTelemetry.Instrumentation.Runtime": {
+              "target": "Package",
+              "version": "[1.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
+              "version": "[8.0.0, 8.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.linux-x64",
+              "version": "[8.0.0, 8.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
